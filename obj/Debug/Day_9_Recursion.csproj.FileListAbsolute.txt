@@ -1,0 +1,6 @@
+C:\Users\dj\Desktop\Stuff\Day_9_Recursion\Day_9_Recursion\bin\Debug\Day_9_Recursion.exe.config
+C:\Users\dj\Desktop\Stuff\Day_9_Recursion\Day_9_Recursion\bin\Debug\Day_9_Recursion.exe
+C:\Users\dj\Desktop\Stuff\Day_9_Recursion\Day_9_Recursion\bin\Debug\Day_9_Recursion.pdb
+C:\Users\dj\Desktop\Stuff\Day_9_Recursion\Day_9_Recursion\obj\Debug\Day_9_Recursion.csprojResolveAssemblyReference.cache
+C:\Users\dj\Desktop\Stuff\Day_9_Recursion\Day_9_Recursion\obj\Debug\Day_9_Recursion.exe
+C:\Users\dj\Desktop\Stuff\Day_9_Recursion\Day_9_Recursion\obj\Debug\Day_9_Recursion.pdb
